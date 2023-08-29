@@ -1,4 +1,4 @@
-# Front End Mentor Multi-step form challenge
+# Frontend Mentor Multi-step form challenge
 
 This is a solution to the [Multi-step form challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). I wanted to test out the [SvelteKit](https://svelte.dev/) framework, so I used it to build this project.
 
